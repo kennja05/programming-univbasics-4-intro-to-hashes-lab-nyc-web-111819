@@ -8,7 +8,8 @@ def my_hash
 end
 
 def pioneer
-
+  new_hash = {:name => "Grace Hopper"}
+  new_hash
 end
 
 def id_generator
